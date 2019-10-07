@@ -1,0 +1,80 @@
+*************************************************************
+FileName = Nabaztag_RPI_V2.0.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\matrix\matrix
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\profile
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\stephdr
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\mechanical_7\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\mechanical_7\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\solder_side\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\solder_side\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\mechanical_15\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\mechanical_15\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\drill\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\drill\tools
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\component_side\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\component_side\attrlist
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : D:\Documents\Enero\Maker Faire 2018\Maker_Faire_Nabaztag_V4.2_voiceReco_4\Project Outputs for Maker_Faire_Nabaztag\Nabaztag_RPI_Production_Files\Pynab_FAB_PRESTOCAB\odb\steps\pcb\eda\data
+
