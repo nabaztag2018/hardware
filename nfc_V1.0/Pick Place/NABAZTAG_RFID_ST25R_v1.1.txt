@@ -1,0 +1,56 @@
+Altium Designer Pick and Place Locations
+D:\en_cours\sch_altium\NABAZTAG_RFID_ST25R_v1.1\Project Outputs for NABAZTAG_RFID_ST25R_v1.1\Pick Place\NABAZTAG_RFID_ST25R_v1.1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/02/22
+Time:       12:19
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                              Layer       Footprint                            Center-X(mm) Center-Y(mm) Rotation Description                                                          
+U1         ST25R3917-AQWT                       TopLayer    RHB32_L_BIS                          26.0800      10.0800      180      "SX1272 - Low Power Integrated UHF Transceiver with Lora technology" 
+FB1        600R                                 TopLayer    CAP-0603                             41.0200      18.0400      0        "Ferrite Bead"                                                       
+E1         ANTENNA_RFID_ST_ST25R3917_NABAZTAG_1 TopLayer    ANTENNA_RFID_ST_ST25R3917_NABAZTAG_1 24.0011      49.4454      270      "Generic Antenna"                                                    
+C26        10pF                                 TopLayer    CAP-0603                             34.1500      7.9000       0        "Ceramic Capacitor Chip"                                             
+C25        10nF                                 TopLayer    CAP-0603                             30.8400      12.6900      180      "Ceramic Capacitor Chip"                                             
+C24        2.2uF                                TopLayer    CAP-0603                             33.8400      12.6900      180      "Ceramic Capacitor Chip"                                             
+C23        10nF                                 TopLayer    CAP-0603                             30.8400      11.0900      0        "Ceramic Capacitor Chip"                                             
+C22        2.2uF                                TopLayer    CAP-0603                             33.8400      11.0900      180      "Ceramic Capacitor Chip"                                             
+C21        10pF                                 TopLayer    CAP-0603                             34.1500      6.3000       180      "Ceramic Capacitor Chip"                                             
+C20        10nF                                 TopLayer    CAP-0603                             31.3600      9.4900       180      "Ceramic Capacitor Chip"                                             
+C19        2.2uF                                TopLayer    CAP-0603                             34.3600      9.4900       180      "Ceramic Capacitor Chip"                                             
+C17        2.2uF                                TopLayer    CAP-0603                             31.1500      5.2900       180      "Ceramic Capacitor Chip"                                             
+C14        2.2uF                                TopLayer    CAP-0603                             43.3200      17.3400      90       "Ceramic Capacitor Chip"                                             
+R3         10K                                  TopLayer    RES-0603                             42.0200      14.1500      90       "Chip Resistor"                                                      
+L2         270nH                                TopLayer    CAP-0603                             21.7800      18.5000      90       Inductor                                                             
+C18        10nF                                 TopLayer    CAP-0603                             28.8500      5.3300       90       "Ceramic Capacitor Chip"                                             
+C16        10nF                                 TopLayer    CAP-0603                             27.2500      5.3300       270      "Ceramic Capacitor Chip"                                             
+C32        10nF                                 TopLayer    CAP-0603                             31.3700      14.2900      0        "Ceramic Capacitor Chip"                                             
+C31        2.2uF                                TopLayer    CAP-0603                             31.3700      15.8900      180      "Ceramic Capacitor Chip"                                             
+C30        10nF                                 TopLayer    CAP-0603                             28.3700      14.2900      180      "Ceramic Capacitor Chip"                                             
+C29        2.2uF                                TopLayer    CAP-0603                             28.3700      15.8900      180      "Ceramic Capacitor Chip"                                             
+C28        10nF                                 TopLayer    CAP-0603                             21.3300      13.8000      0        "Ceramic Capacitor Chip"                                             
+C27        2.2uF                                TopLayer    CAP-0603                             21.3300      12.2000      0        "Ceramic Capacitor Chip"                                             
+P1         "Header 4"                           BottomLayer HDR1X4                               46.0000      5.6900       270      "Header, 4-Pin"                                                      
+C4         680pF                                TopLayer    CAP-0603                             25.4900      20.8000      0        "Ceramic Capacitor Chip"                                             
+L1         270nH                                TopLayer    CAP-0603                             26.1900      18.5000      90       Inductor                                                             
+C11        10pF                                 TopLayer    CAP-0603                             19.4800      27.0000      0        "Ceramic Capacitor Chip"                                             
+C10        100pF                                TopLayer    CAP-0603                             21.7800      23.1000      90       "Ceramic Capacitor Chip"                                             
+C9         56pF                                 TopLayer    CAP-0603                             22.4800      27.0000      0        "Ceramic Capacitor Chip"                                             
+C8         82pF                                 TopLayer    CAP-0603                             22.4800      25.4000      0        "Ceramic Capacitor Chip"                                             
+C7         680pF                                TopLayer    CAP-0603                             22.4800      20.8000      0        "Ceramic Capacitor Chip"                                             
+C6         56pF                                 TopLayer    CAP-0603                             25.4900      27.0000      0        "Ceramic Capacitor Chip"                                             
+C5         82pF                                 TopLayer    CAP-0603                             25.4900      25.4000      0        "Ceramic Capacitor Chip"                                             
+C3         100pF                                TopLayer    CAP-0603                             26.1900      23.1000      90       "Ceramic Capacitor Chip"                                             
+C2         10pF                                 TopLayer    CAP-0603                             28.4900      27.0000      0        "Ceramic Capacitor Chip"                                             
+C1         180pF                                TopLayer    CAP-0603                             31.4800      27.0000      0        "Ceramic Capacitor Chip"                                             
+R4         10K                                  TopLayer    RES-0603                             40.4200      14.1500      90       "Chip Resistor"                                                      
+C12        180pF                                TopLayer    CAP-0603                             16.4900      27.0000      0        "Ceramic Capacitor Chip"                                             
+C13        1uF                                  TopLayer    CAP-0603                             21.3200      6.2800       0        "Ceramic Capacitor Chip"                                             
+C15        10nF                                 TopLayer    CAP-0603                             21.3200      7.8800       0        "Ceramic Capacitor Chip"                                             
+R1         2.2                                  TopLayer    RES-0603                             26.5400      29.3000      90       "Chip Resistor"                                                      
+R2         2.2                                  TopLayer    RES-0603                             21.4400      29.3000      90       "Chip Resistor"                                                      
+Y1         24MHz                                TopLayer    CRYSTAL_2.0mm_1.6mm_4pts             31.1500      7.3900       180      "Crystal Oscillator"                                                 

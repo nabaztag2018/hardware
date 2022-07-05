@@ -1,0 +1,16 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 3 1.8110236 0.3740157 90 N P1 Header_4 ;0=2,1=0.0000
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Publisher 'Altium Limited'
+TOP 0 1.8110236 0.3740157 90 N 8 0 P1-1
+TOP 1 1.8110236 0.2740157 90 N 22 8 P1-2
+TOP 2 1.8110236 0.1740157 90 N 1 0 P1-3
+TOP 3 1.8110236 0.0740157 90 N 2 0 P1-4
+#
